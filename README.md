@@ -58,6 +58,3 @@ Intenta identificar el CMS utilizado mediante patrones en el HTML.
 
 Comprueba si el sitio usa HTTPS y si el certificado es válido.
 
-### 9. Brechas de Seguridad
-
-Consulta bases de datos públicas para verificar si el dominio ha estado comprometido.
